@@ -11,7 +11,7 @@ Liberation - MTA:SA - vinculate discord.
 - node - moddules necessario.
 - mysql necessario 
 - command: npm install
-- command: npm install mysql
+- command: npm install mysql2
 
 - Preencher Corretamente O connect do seu mysql -- 
         -- TavaresS.lua / bot.js --
