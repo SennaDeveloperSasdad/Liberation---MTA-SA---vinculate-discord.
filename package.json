@@ -1,0 +1,13 @@
+{
+    "name": "mta-liberacao-bot",
+    "version": "1.0.0",
+    "description": "Bot de liberação para MTA:SA com botões",
+    "main": "bot.js",
+    "scripts": {
+        "start": "node bot.js"
+    },
+    "dependencies": {
+        "discord.js": "^14.23.2",
+        "mysql2": "^3.15.2"
+    }
+}
